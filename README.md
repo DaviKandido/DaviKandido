@@ -236,7 +236,7 @@
    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=tokyonight&utcOffset=3" 
 />
 
- <br/>
+
  <br/>
 
 <div style="display: block; justify-content: center;">
@@ -247,7 +247,6 @@
    />
 </div>
 
- <br/>
  <br/>
 
 
