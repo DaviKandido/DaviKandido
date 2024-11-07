@@ -28,6 +28,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
+
 <!-- CSS -->
 <img 
     align="left" 
@@ -183,6 +184,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+
+<!-- Python -->
 <img 
     align="left" 
     alt="Python" 
@@ -190,6 +193,16 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<!-- Jupyter -->
+<img 
+    align="left" 
+    alt="Jupyter"
+    title="Jupyter" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
 
 <br/>
