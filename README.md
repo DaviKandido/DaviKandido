@@ -203,6 +203,12 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
    height="200" 
    src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
 />
+<img 
+   align="left" 
+   alt="Annual Contributions" 
+   height="200" 
+   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=tokyonight&utcOffset=3" 
+/>
 
  <br>
  <br>
@@ -216,12 +222,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
  <br>
  <br>
 
-<img 
-   align="left" 
-   alt="Annual Contributions" 
-   height="200" 
-   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=tokyonight&utcOffset=3" 
-/>
+
 
 
 
