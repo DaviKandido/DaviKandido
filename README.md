@@ -1,8 +1,8 @@
 # 👨‍💻 Davi Cândido
 
-**`Desenvolvedor FullStack`**
+#### **`Desenvolvedor FullStack`**
 
-Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-almeida/), sou natural de Minas Gerais. Concluí o ensino médio no [CPRHG (Colegío Professor Roberto Herbster Gusmão)](https://www.google.com/search?q=colegio+professor+roberto+herbster+gusm%C3%A3o&sca_esv=acf2ca49e71d5b78&sxsrf=ADLYWILlxZnpJfxXcAbb3fJ0eV981as7uw%3A1730938367865&ei=_wUsZ5i5NOy-5OUPu9eO-Qk&ved=0ahUKEwjYtK3098iJAxVsH7kGHburI58Q4dUDCBA&uact=5&oq=colegio+professor+roberto+herbster+gusm%C3%A3o&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmNvbGVnaW8gcHJvZmVzc29yIHJvYmVydG8gaGVyYnN0ZXIgZ3VzbcOjbzIEECMYJzITEC4YgAQYxwEYJxiKBRiOBRivATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIuAJQWVhZcAF4AZABAJgBlgGgAZYBqgEDMC4xuAEDyAEA-AEBmAICoAKrAcICChAAGLADGNYEGEeYAwCIBgGQBgiSBwMxLjGgB-IK&sclient=gws-wiz-serp), participando do Projeto [Altas Habilidades em Tecnologias Digitais](). Atualmente, estou cursando Ciência da Computação na PUCMINAS. Sempre fui intrigado em como as tecnologias impactam e mudam as nossas vidas. Para mim, o aprendizado e a inovação sempre foi essencial ainda mais nos dias de hoje em que a tecnologia se tornou um meio cada vez mais promissor de mudar o mundo
+**Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-almeida/), sou natural de Minas Gerais. Concluí o ensino médio no [CPRHG (Colegío Professor Roberto Herbster Gusmão)](https://www.google.com/search?q=colegio+professor+roberto+herbster+gusm%C3%A3o&sca_esv=acf2ca49e71d5b78&sxsrf=ADLYWILlxZnpJfxXcAbb3fJ0eV981as7uw%3A1730938367865&ei=_wUsZ5i5NOy-5OUPu9eO-Qk&ved=0ahUKEwjYtK3098iJAxVsH7kGHburI58Q4dUDCBA&uact=5&oq=colegio+professor+roberto+herbster+gusm%C3%A3o&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmNvbGVnaW8gcHJvZmVzc29yIHJvYmVydG8gaGVyYnN0ZXIgZ3VzbcOjbzIEECMYJzITEC4YgAQYxwEYJxiKBRiOBRivATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIuAJQWVhZcAF4AZABAJgBlgGgAZYBqgEDMC4xuAEDyAEA-AEBmAICoAKrAcICChAAGLADGNYEGEeYAwCIBgGQBgiSBwMxLjGgB-IK&sclient=gws-wiz-serp), participando do Projeto [Altas Habilidades em Tecnologias Digitais](). Atualmente, estou cursando Ciência da Computação na PUCMINAS. Sempre fui intrigado em como as tecnologias impactam e mudam as nossas vidas. Para mim, o aprendizado e a inovação sempre foi essencial ainda mais nos dias de hoje em que a tecnologia se tornou um meio cada vez mais promissor de mudar o mundo**
 
 <p align="left">
     <a href="https://github.com/DaviKandido?tab=repositories">
@@ -18,6 +18,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 ## 🤖 Linguagens e Tecnologias
 
+<!-- HTML -->
 <img 
     align="left" 
     alt="HTML"
@@ -26,6 +27,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
+<!-- CSS -->
 <img 
     align="left" 
     alt="CSS" 
@@ -34,6 +37,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<!-- JavaScript -->
 <img 
     align="left" 
     alt="JavaScript" 
@@ -53,22 +58,28 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
+
+<!-- Java -->
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<!-- Bootstrap -->
 <img 
-    align="left" 
+    align="React" 
     alt="React"
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+<!-- Bootstrap -->
 <img 
     align="left" 
     alt="Bootstrap"
@@ -77,7 +88,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
+<!-- SASS -->
 <img 
     align="left" 
     alt="SASS" 
@@ -86,6 +97,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
+<!-- JQuery -->
 <img 
     align="left" 
     alt="JQuery" 
@@ -94,6 +106,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+<!-- Git -->
 <img 
     align="left" 
     alt="Git" 
@@ -102,14 +115,16 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<!-- GitHub -->
 <img 
     align="left" 
     alt="GitHub" 
-    title="Git"
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+<!-- Python -->
 <img 
     align="left" 
     alt="Python" 
@@ -157,6 +172,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
 />
+<br/>
 
 <!-- PostgreSQL -->
 <img 
