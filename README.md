@@ -203,7 +203,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
   <img 
    align="left" 
    alt="GitHub Streak" 
-   height="200" 
+   height="180" 
    src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
 />
 <img 
