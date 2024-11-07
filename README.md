@@ -120,8 +120,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 <!-- Python -->
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
