@@ -18,8 +18,6 @@
 
 ## 🤖 Linguagens e Tecnologias
 
-<br/>
-
 <!-- HTML -->
 <img 
     align="left" 
