@@ -205,6 +205,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 />
 
  <br>
+ <br>
+
 <img 
    align="left" 
    alt="Profile Stats" 
@@ -212,7 +214,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=tokyonight" 
 />
  <br>
- 
+ <br>
+
 <img 
    align="left" 
    alt="Annual Contributions" 
