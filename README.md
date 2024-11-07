@@ -196,7 +196,10 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
- <br>
+
+  <br/>
+  <br/>
+
   <img 
    align="left" 
    alt="GitHub Streak" 
@@ -210,8 +213,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=tokyonight&utcOffset=3" 
 />
 
- <br>
- <br>
+ <br/>
+ <br/>
 
 <img 
    align="left" 
@@ -219,8 +222,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
    height="200" 
    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=tokyonight" 
 />
- <br>
- <br>
+ <br/>
+ <br/>
 
 
 
