@@ -209,19 +209,21 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 <img 
    align="left" 
    alt="Annual Contributions" 
-   height="200" 
+   height="180" 
    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=tokyonight&utcOffset=3" 
 />
 
  <br/>
  <br/>
 
-<img 
-   align="left" 
-   alt="Profile Stats" 
-   height="200" 
-   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=tokyonight" 
-/>
+<div style="display: block; justify-content: center;">
+   <img 
+      alt="Profile Stats" 
+      height="200" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=tokyonight" 
+   />
+</div>
+
  <br/>
  <br/>
 
