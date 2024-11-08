@@ -27,7 +27,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -38,7 +39,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -48,7 +50,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -58,7 +61,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Node.js" 
     title="Node.js" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
@@ -69,7 +73,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -79,7 +84,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -89,7 +95,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -98,7 +105,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -107,7 +115,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="JQuery" 
     title="JQuery"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
@@ -116,7 +125,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -126,7 +136,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="C" 
     title="C"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
@@ -135,7 +146,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="C++" 
     title="C++" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
@@ -145,7 +157,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="C#" 
     title="C#" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -155,7 +168,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Maven" 
     title="Maven" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
 />
@@ -165,7 +179,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Spark" 
     title="Spark" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
 />
@@ -176,7 +191,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -186,7 +202,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -196,7 +213,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     align="left" 
     alt="Jupyter"
     title="Jupyter" 
-    width="30px" 
+    width="30px"
+    display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
