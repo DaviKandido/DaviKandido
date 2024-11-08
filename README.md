@@ -1,6 +1,8 @@
 # 👨‍💻 Davi Cândido
 
-#### **`Desenvolvedor FullStack`**
+<div align="center"> 
+    #### **`Desenvolvedor FullStack`**
+</div>
 
 Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-almeida/), sou natural de Minas Gerais. Concluí o ensino médio no [CPRHG (Colegío Professor Roberto Herbster Gusmão)](https://www.google.com/search?q=colegio+professor+roberto+herbster+gusm%C3%A3o&sca_esv=acf2ca49e71d5b78&sxsrf=ADLYWILlxZnpJfxXcAbb3fJ0eV981as7uw%3A1730938367865&ei=_wUsZ5i5NOy-5OUPu9eO-Qk&ved=0ahUKEwjYtK3098iJAxVsH7kGHburI58Q4dUDCBA&uact=5&oq=colegio+professor+roberto+herbster+gusm%C3%A3o&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmNvbGVnaW8gcHJvZmVzc29yIHJvYmVydG8gaGVyYnN0ZXIgZ3VzbcOjbzIEECMYJzITEC4YgAQYxwEYJxiKBRiOBRivATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIuAJQWVhZcAF4AZABAJgBlgGgAZYBqgEDMC4xuAEDyAEA-AEBmAICoAKrAcICChAAGLADGNYEGEeYAwCIBgGQBgiSBwMxLjGgB-IK&sclient=gws-wiz-serp), participando do Projeto [Altas Habilidades em Tecnologias Digitais](https://www.google.com/search?q=Projeto+Altas+Habilidades+em+Tecnologias+Digitais&oq=Projeto+altas+Habilidades+em+Tecnologias+Digitais&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGKIEGIkF0gEIMzcyOGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8). Atualmente, estou cursando Ciência da Computação na PUCMINAS. Sempre fui intrigado em como as tecnologias impactam e mudam as nossas vidas. Para mim, o aprendizado e a inovação sempre foi essencial ainda mais nos dias de hoje em que a tecnologia se tornou um meio cada vez mais promissor de mudar o mundo
 
