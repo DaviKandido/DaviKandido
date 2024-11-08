@@ -24,7 +24,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     
 <!-- HTML -->
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -35,7 +35,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- CSS -->
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -45,7 +45,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- JavaScript -->
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -55,7 +55,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Node.js -->
 <img 
-    align="left" 
+    align="center" 
     alt="Node.js" 
     title="Node.js" 
     width="30px" 
@@ -66,7 +66,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Java -->
 <img 
-    align="left" 
+    align="center" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -76,7 +76,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- React -->
 <img 
-    align="left" 
+    align="center" 
     alt="React"
     title="React" 
     width="30px" 
@@ -86,7 +86,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Bootstrap -->
 <img 
-    align="left" 
+    align="center" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -95,7 +95,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 />
 <!-- SASS -->
 <img 
-    align="left" 
+    align="center" 
     alt="SASS" 
     title="SASS"
     width="30px" 
@@ -104,7 +104,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 />
 <!-- JQuery -->
 <img 
-    align="left" 
+    align="center" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -113,7 +113,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 />
 <!-- Git -->
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -123,7 +123,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Python -->
 <img 
-    align="left" 
+    align="center" 
     alt="C" 
     title="C"
     width="30px" 
@@ -132,7 +132,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 />
 <!-- C++ -->
 <img 
-    align="left" 
+    align="center" 
     alt="C++" 
     title="C++" 
     width="30px" 
@@ -142,7 +142,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- C# -->
 <img 
-    align="left" 
+    align="center" 
     alt="C#" 
     title="C#" 
     width="30px" 
@@ -152,7 +152,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Maven -->
 <img 
-    align="left" 
+    align="center" 
     alt="Maven" 
     title="Maven" 
     width="30px" 
@@ -162,7 +162,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Spark -->
 <img 
-    align="left" 
+    align="center" 
     alt="Spark" 
     title="Spark" 
     width="30px" 
@@ -173,7 +173,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- PostgreSQL -->
 <img 
-    align="left" 
+    align="center" 
     alt="PostgreSQL" 
     title="PostgreSQL" 
     width="30px" 
@@ -183,7 +183,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Python -->
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -193,7 +193,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <!-- Jupyter -->
 <img 
-    align="left" 
+    align="center" 
     alt="Jupyter"
     title="Jupyter" 
     width="30px" 
@@ -212,7 +212,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -230,7 +230,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
   <br/>
 
   <img 
-   align="left" 
+   align="center" 
    alt="GitHub Streak" 
    height="190" 
    style="padding-right: 10px;"
