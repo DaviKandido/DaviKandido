@@ -20,7 +20,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 ## 🤖 Linguagens e Tecnologias
 
-<div align="center"> 
+
     
 <!-- HTML -->
 <img 
@@ -74,9 +74,9 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-<!-- Bootstrap -->
+<!-- React -->
 <img 
-    align="React" 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -200,13 +200,15 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
-</div>
+
 
 <br/>
 <br/>
 <br/>
-
+    
 ## 📊 Estatísticas
+
+<div align="center"> 
 
 <p>
   <img 
@@ -252,11 +254,9 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
    />
 </div>
 
+</div>
 
  <br/>
-
-
-
 
 
 </p>
