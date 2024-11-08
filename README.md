@@ -20,6 +20,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 
 ## 🤖 Linguagens e Tecnologias
 
+<div align="center"> 
+    
 <!-- HTML -->
 <img 
     align="left" 
@@ -198,6 +200,7 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
+</div>
 
 <br/>
 <br/>
