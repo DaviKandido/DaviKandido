@@ -247,6 +247,8 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
    />
 </div>
 
+![LinkedIn Profile Card Desktop Demo](./readme-images/LinkedIn-Profile-Card.png "Desktop Demo")
+
  <br/>
 
 
