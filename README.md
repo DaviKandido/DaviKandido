@@ -45,6 +45,28 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<!-- SASS -->
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px"
+    display="Flex"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+<!-- Bootstrap -->
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px"
+    display="Flex"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
 <!-- JavaScript -->
 <img 
     align="left" 
@@ -54,6 +76,28 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<!-- React -->
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px"
+    display="Flex"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<!-- JQuery -->
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px"
+    display="Flex"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 
 <!-- Node.js -->
@@ -68,58 +112,6 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
 />
 
 
-<!-- Java -->
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px"
-    display="Flex"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<!-- React -->
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px"
-    display="Flex"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<!-- Bootstrap -->
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px"
-    display="Flex"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<!-- SASS -->
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px"
-    display="Flex"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<!-- JQuery -->
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px"
-    display="Flex"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
 <!-- Git -->
 <img 
     align="left" 
@@ -161,6 +153,18 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+
+<!-- Java -->
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px"
+    display="Flex"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <!-- Maven -->
