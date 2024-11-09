@@ -78,6 +78,17 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<!-- Node.js -->
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="30px"
+    display="Flex"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
 <!-- React -->
 <img 
     align="left" 
@@ -98,17 +109,6 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
     display="Flex"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-
-<!-- Node.js -->
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js" 
-    width="30px"
-    display="Flex"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 
