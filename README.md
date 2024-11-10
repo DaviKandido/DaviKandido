@@ -69,7 +69,9 @@
 
 
 
-# About me:
+<div align="center">
+
+## 🛠 &nbsp;Tech Stacks
 
 
 #### **`Desenvolvedor FullStack`**
@@ -78,7 +80,7 @@ My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-d
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=120&section=footer"/>
 
-
+</div>
 
 <div align="center"> 
     <p align="center">
@@ -323,35 +325,28 @@ My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-d
   <br/>
   <br/>
 
-<p align="left">
-    <img 
-       align="left" 
-       alt="GitHub Streak" 
-       height="190" 
-       style="padding-right: 10px;" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=matrix&bg_color=BF91F3&hide_border=true" 
-    />
-    <img 
-       align="right" 
-       alt="Annual Contributions" 
-       height="190" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=matrix&bg_color=BF91F3&utcOffset=3&hide_border=true" 
-    />
-</p>
+  <img 
+   align="left" 
+   alt="GitHub Streak" 
+   height="190" 
+   style="padding-right: 10px;"
+   src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
+/>
+<img 
+   align="rigth" 
+   alt="Annual Contributions" 
+   height="190" 
+   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=tokyonight&utcOffset=3" 
+/>
 
-<br/>
+
+ <br/>
 
 <div style="display: block; justify-content: left;">
-    <img 
-       alt="Profile Stats" 
-       height="200" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=matrix&bg_color=BF91F3&hide_border=true" 
-    />
+   <img 
+      alt="Profile Stats" 
+      height="200" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=tokyonight" 
+   />
 </div>
-
-<p align="center">
-    <img 
-       src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=matrix&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" 
-    />
-</p>
 
