@@ -54,7 +54,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&labelColor=000&textColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&labelColor=000&textColor=fff)&nbsp;
 
-### 📱 &nbsp;Extras
+### 🤖 &nbsp;Extras
 
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&labelColor=000&textColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&labelColor=000&textColor=fff)&nbsp;
