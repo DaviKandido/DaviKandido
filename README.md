@@ -15,7 +15,7 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&layout=compact&hide_border=true&title_color=BF91F3&text_color=e6d1ff&bg_color=0d1117" />
 </div>
 
-<br>
+</br>
 
 <div align="center"> 
     <a href = "mailto:davicandidopucminas@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-BF91F3?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
