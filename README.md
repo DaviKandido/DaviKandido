@@ -11,15 +11,15 @@
 </p>
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviKandido&show_icons=true&count_private=true&hide_border=true&title_color=67cb57&icon_color=67cb57&text_color=c9d1d9&bg_color=0d1117" alt="Artur Bomtempo github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&layout=compact&hide_border=true&title_color=67cb57&text_color=67cb57&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviKandido&show_icons=true&count_private=true&hide_border=true&title_color=BF91F3&icon_color=BF91F3&text_color=c9d1d9&bg_color=0d1117" alt="Artur Bomtempo github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&layout=compact&hide_border=true&title_color=BF91F3&text_color=BF91F3&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
-    <a href = "mailto:davicandidopucminas@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.instagram.com/davykandido/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/davi-candido-de-almeida/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-    <a href="https://github.com/DaviKandido?tab=repositories" style="text-decoration: none;"><img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" target="_blank"></a>
+    <a href = "mailto:davicandidopucminas@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-BF91F3?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+    <a href = "https://www.instagram.com/davykandido/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-BF91F3?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/davi-candido-de-almeida/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-BF91F3?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+    <a href="https://github.com/DaviKandido?tab=repositories" style="text-decoration: none;"><img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-BF91F3?style=for-the-badge&logoColor=white&logo=repo" target="_blank"></a>
 </div>
 
 <br>
@@ -33,13 +33,12 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5&labelColor=000&textColor=fff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572b6&labelColor=000)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=SASS&labelColor=000&textColor=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&labelColor=000&textColor=fff)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=React&labelColor=000&textColor=fff)&nbsp;
-![Next.js](https://img.shields.io/badge/-next.js-000?style=for-the-badge&logo=next.js&labelColor=000&textColor=fff)&nbsp;
-![Styled-components](https://img.shields.io/badge/-Styled%20components-000?style=for-the-badge&logo=Styled-components&labelColor=000&textColor=fff)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=TailwindCSS&labelColor=000&textColor=fff)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-000?style=for-the-badge&logo=JQuery&labelColor=000&textColor=fff)&nbsp;
+![Node.js](https://img.shields.io/badge/-Nodejs-000?style=for-the-badge&logo=Node.js&labelColor=000&textColor=fff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=Bootstrap&labelColor=000&textColor=fff)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=SASS&labelColor=000&textColor=fff)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
