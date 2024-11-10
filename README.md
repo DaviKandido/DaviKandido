@@ -7,9 +7,7 @@
 
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=matrix&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
-
-)
+    <img src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=tokyonight&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
