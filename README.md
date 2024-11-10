@@ -60,7 +60,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&labelColor=000&textColor=fff)&nbsp;
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C&labelColor=000&textColor=fff)&nbsp;
 ![C++](https://img.shields.io/badge/-cplusplus-000?style=for-the-badge&logo=cplusplus&labelColor=000&textColor=fff)&nbsp;
-![C#](https://img.shields.io/badge/-csharp-000?style=for-the-badge&logo=csharp&labelColor=000&textColor=fff)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=dotnet&labelColor=000&textColor=fff)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=Jupyter&labelColor=000&textColor=fff)&nbsp;
 
 </div>
@@ -74,7 +74,7 @@
     <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=120&section=footer"/>
 
 
 # 👨‍💻 Davi Cândido
