@@ -67,22 +67,18 @@
 
 <br>
 
-<div align="center">
-    <br>
-    <p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArturColen}/count.svg" /></p> 
-    <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=120&section=footer"/>
 
 
-# 👨‍💻 Davi Cândido
+# About me:
 
 
 #### **`Desenvolvedor FullStack`**
 
-Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-almeida/), sou natural de Minas Gerais. Concluí o ensino médio no [CPRHG (Colegío Professor Roberto Herbster Gusmão)](https://www.google.com/search?q=colegio+professor+roberto+herbster+gusm%C3%A3o&sca_esv=acf2ca49e71d5b78&sxsrf=ADLYWILlxZnpJfxXcAbb3fJ0eV981as7uw%3A1730938367865&ei=_wUsZ5i5NOy-5OUPu9eO-Qk&ved=0ahUKEwjYtK3098iJAxVsH7kGHburI58Q4dUDCBA&uact=5&oq=colegio+professor+roberto+herbster+gusm%C3%A3o&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmNvbGVnaW8gcHJvZmVzc29yIHJvYmVydG8gaGVyYnN0ZXIgZ3VzbcOjbzIEECMYJzITEC4YgAQYxwEYJxiKBRiOBRivATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIuAJQWVhZcAF4AZABAJgBlgGgAZYBqgEDMC4xuAEDyAEA-AEBmAICoAKrAcICChAAGLADGNYEGEeYAwCIBgGQBgiSBwMxLjGgB-IK&sclient=gws-wiz-serp), participando do Projeto [Altas Habilidades em Tecnologias Digitais](https://www.google.com/search?q=Projeto+Altas+Habilidades+em+Tecnologias+Digitais&oq=Projeto+altas+Habilidades+em+Tecnologias+Digitais&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGKIEGIkF0gEIMzcyOGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8). Atualmente, estou cursando Ciência da Computação na PUCMINAS. Sempre fui intrigado em como as tecnologias impactam e mudam as nossas vidas. Para mim, o aprendizado e a inovação sempre foi essencial ainda mais nos dias de hoje em que a tecnologia se tornou um meio cada vez mais promissor de mudar o mundo
+My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-almeida/), and I am from Minas Gerais, Brazil. I completed high school at [CPRHG (Professor Roberto Herbster Gusmão School)](https://www.google.com/search?q=colegio+professor+roberto+herbster+gusm%C3%A3o&sca_esv=acf2ca49e71d5b78&sxsrf=ADLYWILlxZnpJfxXcAbb3fJ0eV981as7uw%3A1730938367865&ei=_wUsZ5i5NOy-5OUPu9eO-Qk&ved=0ahUKEwjYtK3098iJAxVsH7kGHburI58Q4dUDCBA&uact=5&oq=colegio+professor+roberto+herbster+gusm%C3%A3o&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmNvbGVnaW8gcHJvZmVzc29yIHJvYmVydG8gaGVyYnN0ZXIgZ3VzbcOjbzIEECMYJzITEC4YgAQYxwEYJxiKBRiOBRivATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIuAJQWVhZcAF4AZABAJgBlgGgAZYBqgEDMC4xuAEDyAEA-AEBmAICoAKrAcICChAAGLADGNYEGEeYAwCIBgGQBgiSBwMxLjGgB-IK&sclient=gws-wiz-serp), where I participated in the [Projeto Altas Habilidades Digitais (High Skills in Digital Technologies Project)](https://www.google.com/search?q=Projeto+Altas+Habilidades+em+Tecnologias+Digitais&oq=Projeto+altas+Habilidades+em+Tecnologias+Digitais&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGKIEGIkF0gEIMzcyOGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8). I am currently pursuing a degree in Computer Science at PUCMINAS. I have always been fascinated by how technology impacts and changes our lives. For me, learning and innovation are essential, especially today when technology has become an increasingly promising way to change the world.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=120&section=footer"/>
+
+
 
 <div align="center"> 
     <p align="center">
@@ -327,28 +323,35 @@ Me chamo [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-
   <br/>
   <br/>
 
-  <img 
-   align="left" 
-   alt="GitHub Streak" 
-   height="190" 
-   style="padding-right: 10px;"
-   src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
-/>
-<img 
-   align="rigth" 
-   alt="Annual Contributions" 
-   height="190" 
-   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=tokyonight&utcOffset=3" 
-/>
+<p align="left">
+    <img 
+       align="left" 
+       alt="GitHub Streak" 
+       height="190" 
+       style="padding-right: 10px;" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=matrix&bg_color=BF91F3&hide_border=true" 
+    />
+    <img 
+       align="right" 
+       alt="Annual Contributions" 
+       height="190" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviKandido&theme=matrix&bg_color=BF91F3&utcOffset=3&hide_border=true" 
+    />
+</p>
 
-
- <br/>
+<br/>
 
 <div style="display: block; justify-content: left;">
-   <img 
-      alt="Profile Stats" 
-      height="200" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=tokyonight" 
-   />
+    <img 
+       alt="Profile Stats" 
+       height="200" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviKandido&theme=matrix&bg_color=BF91F3&hide_border=true" 
+    />
 </div>
+
+<p align="center">
+    <img 
+       src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=matrix&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" 
+    />
+</p>
 
