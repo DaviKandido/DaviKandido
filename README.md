@@ -7,7 +7,8 @@
 
 
 <p align="center">
-    [<img src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=matrix&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />](https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=onestar&bg_color=FFFFFF00&title_color=BF91F3&text_color=BF91F3&border_color=BF91F3&row=2&column=3&margin-w=15&margin-h=15
+    <img src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=matrix&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+
 )
 </p>
 
