@@ -71,14 +71,22 @@
 
 <div align="center">
 
-## 🛠 &nbsp;Tech Stacks
+## 🛠 &nbsp;About me
 
 
 #### **`Desenvolvedor FullStack`**
 
 My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-de-almeida/), and I am from Minas Gerais, Brazil. I completed high school at [CPRHG (Professor Roberto Herbster Gusmão School)](https://www.google.com/search?q=colegio+professor+roberto+herbster+gusm%C3%A3o&sca_esv=acf2ca49e71d5b78&sxsrf=ADLYWILlxZnpJfxXcAbb3fJ0eV981as7uw%3A1730938367865&ei=_wUsZ5i5NOy-5OUPu9eO-Qk&ved=0ahUKEwjYtK3098iJAxVsH7kGHburI58Q4dUDCBA&uact=5&oq=colegio+professor+roberto+herbster+gusm%C3%A3o&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmNvbGVnaW8gcHJvZmVzc29yIHJvYmVydG8gaGVyYnN0ZXIgZ3VzbcOjbzIEECMYJzITEC4YgAQYxwEYJxiKBRiOBRivATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIuAJQWVhZcAF4AZABAJgBlgGgAZYBqgEDMC4xuAEDyAEA-AEBmAICoAKrAcICChAAGLADGNYEGEeYAwCIBgGQBgiSBwMxLjGgB-IK&sclient=gws-wiz-serp), where I participated in the [Projeto Altas Habilidades Digitais (High Skills in Digital Technologies Project)](https://www.google.com/search?q=Projeto+Altas+Habilidades+em+Tecnologias+Digitais&oq=Projeto+altas+Habilidades+em+Tecnologias+Digitais&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGKIEGIkF0gEIMzcyOGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8). I am currently pursuing a degree in Computer Science at PUCMINAS. I have always been fascinated by how technology impacts and changes our lives. For me, learning and innovation are essential, especially today when technology has become an increasingly promising way to change the world.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=120&section=footer"/>
+  <img 
+   align="center" 
+   alt="GitHub Streak" 
+   height="190" 
+   style="padding-right: 10px;"
+   src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
+/>
+
+
 
 </div>
 
