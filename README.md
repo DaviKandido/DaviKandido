@@ -7,12 +7,13 @@
 
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=matrix&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+    [<img src="https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=matrix&bg_color=BF91F3&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />](https://github-profile-trophy.vercel.app/?username=DaviKandido&theme=onestar&bg_color=FFFFFF00&title_color=BF91F3&text_color=BF91F3&border_color=BF91F3&row=2&column=3&margin-w=15&margin-h=15
+)
 </p>
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviKandido&show_icons=true&count_private=true&hide_border=true&title_color=BF91F3&icon_color=BF91F3&text_color=c9d1d9&bg_color=0d1117" alt="Artur Bomtempo github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&layout=compact&hide_border=true&title_color=BF91F3&text_color=BF91F3&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviKandido&show_icons=true&count_private=true&hide_border=true&title_color=BF91F3&icon_color=BF91F3&text_color=c9d1d9&bg_color=0d1117" alt="Davi Cândido github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&layout=compact&hide_border=true&title_color=BF91F3&text_color=BF91F3&bg_color=BF91F3" />
 </div>
 
 <div align="center"> 
