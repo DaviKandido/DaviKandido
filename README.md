@@ -65,7 +65,9 @@
 ![C++](https://img.shields.io/badge/-cplusplus-000?style=for-the-badge&logo=cplusplus&labelColor=000&textColor=fff)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=dotnet&labelColor=000&textColor=fff)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=Jupyter&labelColor=000&textColor=fff)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=Azure&labelColor=000&textColor=fff)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=Microsoft-Azure&labelColor=000&color=0078D4&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-000?style=for-the-badge&logo=OpenAI&labelColor=000&color=blue&logoColor=fff)&nbsp;
+
 
 </div>
 
