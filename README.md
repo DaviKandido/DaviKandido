@@ -65,6 +65,7 @@
 ![C++](https://img.shields.io/badge/-cplusplus-000?style=for-the-badge&logo=cplusplus&labelColor=000&textColor=fff)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=dotnet&labelColor=000&textColor=fff)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=Jupyter&labelColor=000&textColor=fff)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=Figma&labelColor=000&textColor=fff)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=Azure&labelColor=000&textColor=fff)&nbsp;
 
 
