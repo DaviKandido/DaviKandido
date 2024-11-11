@@ -40,6 +40,7 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=React&labelColor=000&textColor=fff)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-000?style=for-the-badge&logo=JQuery&labelColor=000&textColor=fff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=Bootstrap&labelColor=000&textColor=fff)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=TailwindCSS&labelColor=000&textColor=fff)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
