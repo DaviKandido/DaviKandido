@@ -47,6 +47,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js&labelColor=000&textColor=fff)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&labelColor=000&textColor=fff)&nbsp;
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&labelColor=000&textColor=fff)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&labelColor=000)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-000?style=for-the-badge&logo=apache-maven&labelColor=000)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-000?style=for-the-badge&logo=apachespark&labelColor=000)&nbsp;
