@@ -57,6 +57,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&labelColor=000&textColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&labelColor=000&textColor=fff)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB&labelColor=000&textColor=fff)&nbsp;
 
 ### 🤖 &nbsp;Extras
 
