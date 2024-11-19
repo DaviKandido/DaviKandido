@@ -88,13 +88,13 @@ My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-d
 
 </br>
 
-  <img 
-   align="center" 
-   alt="GitHub Streak" 
-   height="190" 
-   style="padding-right: 10px;"
-   src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
-/>
+<div style="text-align: center;">
+    <img 
+      alt="GitHub Streak" 
+      height="190" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
+    />
+</div>
 
 </div>
 
