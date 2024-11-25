@@ -12,7 +12,7 @@
 
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviKandido&show_icons=true&count_private=true&hide_border=true&title_color=BF91F3&icon_color=BF91F3&text_color=c9d1d9&bg_color=0d1117" alt="Davi Cândido github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&layout=compact&hide_border=true&title_color=BF91F3&text_color=e6d1ff&bg_color=0d1117" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKandido&layout=compact&hide_border=true&title_color=BF91F3&text_color=e6d1ff&bg_color=0d1117&count_private=true" />
 </div>
 
 </br>
@@ -92,7 +92,7 @@ My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-d
     <img 
       alt="GitHub Streak" 
       height="190" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br&count_private=true" 
     />
 </div>
 
