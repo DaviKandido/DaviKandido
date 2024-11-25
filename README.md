@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF91F3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Cândido;I'm+a+Fullstack+Developer;I'm+a+student+of+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Davi Cândido de Almeida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviKandido&bg_color=0d1117&color=BF91F3&line=BF91F3&point=BF91F3&area=true&area_color=BF91F3&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Davi Cândido de Almeida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviKandido&bg_color=0d1117&color=BF91F3&line=BF91F3&point=BF91F3&area=true&area_color=BF91F3&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
