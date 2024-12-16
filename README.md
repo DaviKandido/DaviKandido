@@ -89,8 +89,6 @@ My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-d
 
 </br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DaviKandido&tokyonight&locale=pt-br&count_private=true)
-
 <div style="text-align: center;">
     <img 
       alt="GitHub Streak" 
