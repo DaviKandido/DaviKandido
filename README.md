@@ -52,7 +52,7 @@
 ![Maven](https://img.shields.io/badge/-Maven-000?style=for-the-badge&logo=apache-maven&labelColor=000)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-000?style=for-the-badge&logo=apachespark&labelColor=000)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&labelColor=000&textColor=fff)&nbsp;
 
 ### 🗃️ &nbsp;Database
 
