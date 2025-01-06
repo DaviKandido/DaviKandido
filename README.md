@@ -96,6 +96,7 @@ My name is [Davi Cândido de Almeida](https://www.linkedin.com/in/davi-candido-d
       height="190" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=DaviKandido&theme=tokyonight&locale=pt-br&count_private=true" 
     />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DaviKandido&theme=tokyonight&hide_border=true&locale=pt_BR&count_private=true" alt="GitHub Streak" /></a>
 </div>
 
 </div>
