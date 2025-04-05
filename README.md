@@ -24,6 +24,10 @@
     <a href="https://github.com/DaviKandido?tab=repositories" style="text-decoration: none;"><img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-BF91F3?style=for-the-badge&logoColor=white&logo=repo" target="_blank"></a>
 </div>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=DaviKandido&color=BF91F3" alt="Profile views" />
+</div>
+
 <br>
 <br>
 
