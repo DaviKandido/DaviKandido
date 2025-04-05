@@ -64,7 +64,7 @@
 ### 📱 &nbsp;Mobile
 
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&labelColor=000&textColor=fff)&nbsp;
-![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![Node-RED](https://img.shields.io/badge/-Node--RED-000?style=for-the-badge&logo=Node--RED&labelColor=000&textColor=fff)&nbsp;
 
 ### 🤖 &nbsp;Extras
 
