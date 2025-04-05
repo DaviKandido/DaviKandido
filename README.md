@@ -46,7 +46,6 @@
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js&labelColor=000&textColor=fff)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&labelColor=000&textColor=fff)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&labelColor=000&textColor=fff)&nbsp;
@@ -56,16 +55,15 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&labelColor=000&textColor=fff)&nbsp;
 
-### 👨🏻‍💻 &nbsp;Mobile
-
-![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=Swifts&labelColor=000&textColor=fff)&nbsp;
-
-
 ### 🗃️ &nbsp;Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&labelColor=000&textColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&labelColor=000&textColor=fff)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB&labelColor=000&textColor=fff)&nbsp;
+
+### 👨🏻‍💻 &nbsp;Mobile
+
+![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&labelColor=000&textColor=fff)&nbsp;
 
 ### 🤖 &nbsp;Extras
 
