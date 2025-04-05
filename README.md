@@ -56,6 +56,11 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&labelColor=000&textColor=fff)&nbsp;
 
+### 👨🏻‍💻 &nbsp;Mobile
+
+![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=Swifts&labelColor=000&textColor=fff)&nbsp;
+
+
 ### 🗃️ &nbsp;Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&labelColor=000&textColor=fff)&nbsp;
