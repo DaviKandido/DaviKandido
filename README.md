@@ -54,6 +54,8 @@
 ![Spark](https://img.shields.io/badge/-Spark-000?style=for-the-badge&logo=apachespark&labelColor=000)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&labelColor=000&textColor=fff)&nbsp;
+![Node-RED](https://img.shields.io/badge/-Node--RED-000?style=for-the-badge&logo=nodered&logoColor=white)
+
 
 ### 🗃️ &nbsp;Database
 
@@ -64,7 +66,6 @@
 ### 📱 &nbsp;Mobile
 
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&labelColor=000&textColor=fff)&nbsp;
-![Node-RED](https://img.shields.io/badge/-Node--RED-000?style=for-the-badge&logo=nodered&logoColor=white)
 
 ### 🤖 &nbsp;Extras
 
