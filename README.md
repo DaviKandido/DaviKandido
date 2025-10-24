@@ -43,6 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&labelColor=000&textColor=fff)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=React&labelColor=000&textColor=fff)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js&labelColor=000&textColor=fff)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&labelColor=000&textColor=fff)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=Vite&labelColor=000&textColor=fff)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-000?style=for-the-badge&logo=JQuery&labelColor=000&textColor=fff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=Bootstrap&labelColor=000&textColor=fff)&nbsp;
@@ -65,11 +66,14 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&labelColor=000&textColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&labelColor=000&textColor=fff)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-000?style=for-the-badge&logo=Sqlite&labelColor=000&textColor=fff)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB&labelColor=000&textColor=fff)&nbsp;
 
 ### 📱 &nbsp;Mobile
 
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&labelColor=000&textColor=fff)&nbsp;
+![SwiftUi](https://img.shields.io/badge/-SwiftUi-000?style=for-the-badge&logo=SwiftUi&labelColor=000&textColor=fff)&nbsp;
+![Flutter](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=flutter&labelColor=000&textColor=fff)&nbsp;
 
 ### 🤖 &nbsp;Extras
 
