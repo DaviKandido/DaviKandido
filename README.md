@@ -68,12 +68,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&labelColor=000&textColor=fff)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-000?style=for-the-badge&logo=Sqlite&labelColor=000&textColor=fff)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB&labelColor=000&textColor=fff)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=Firebase&labelColor=000&textColor=fff)&nbsp;
 
 ### 📱 &nbsp;Mobile
 
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&labelColor=000&textColor=fff)&nbsp;
 ![SwiftUi](https://img.shields.io/badge/-SwiftUi-000?style=for-the-badge&logo=SwiftUi&labelColor=000&textColor=fff)&nbsp;
-![Flutter](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=flutter&labelColor=000&textColor=fff)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-000?style=for-the-badge&logo=flutter&labelColor=000&textColor=fff)&nbsp;
 
 ### 🤖 &nbsp;Extras
 
